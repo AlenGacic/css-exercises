@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.not_cool {
+    background-color: rgb(246, 145, 145);
+    color: black;
+    font-family: "DejaVu Sans",Verdana, sans-serif;
+    font-size: 24x;
+}
+.cool {
+    background-color: rgb(246, 145, 145);
+    font-size: 24px;
+}
+#number_two {
+    color: rgb(25, 110, 220);
+    font-size: 36px;
+}
+#number_four {
+    background-color: rgb(155, 239, 171);
+    font-size: 24px;
+    font-weight: bold;
+}
